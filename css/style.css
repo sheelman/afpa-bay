@@ -1,0 +1,58 @@
+*
+{
+    margin: 0em;
+    padding: 0em;
+}
+header
+{
+    background: black;
+    text-align: center;
+    color: white; 
+}
+h1
+{
+     font-family: 'Indie Flower';
+     font-size: 10vh;
+}
+#logo
+{
+    width: 20%;
+    margin-left: 38em;
+    
+}
+.navbar
+{
+    display: inline;    
+}
+.recherche
+{
+    color: black;
+}
+main
+{
+    background: #d5d5d5;
+    padding: 4em;
+}
+.article
+{
+   background: #9d9d9d;
+   margin-bottom: 2em;
+}
+.image
+{
+    margin-top: 1em;
+}
+.syno
+{
+  margin: 0.5em;
+}
+h4
+{
+    margin: 1em;
+}
+#le_bouton 
+{
+   position: fixed;
+   top: 60em;
+   left: 80em;  
+}
